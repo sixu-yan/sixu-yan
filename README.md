@@ -1,4 +1,4 @@
-### Hi there 👋, this is Sixu.
+<img width="594" height="30" alt="image" src="https://github.com/user-attachments/assets/7b356d2a-2cf0-4395-9415-fa876693d646" />### Hi there 👋, this is Sixu.
 
 😄 I'm a third-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
@@ -11,6 +11,7 @@
 📫 How to reach me: yansixu@hust.edu.cn. 
 
 🔥 News
+- *2026.01*: 🎉 [ReCogDrive](http://github.com/xiaomi-research/recogdrive) are accepted to ICLR 2026!
 - *2025.05*: 🎉 [M3Bench](https://zeyuzhang.com/papers/m3bench/) are accepted to RA-L 2025!
 - *2025.03*: 🎉 [M2Diffuser](https://m2diffuser.github.io/) are accepted to T-PAMI 2025!
 - *2025.02*: 🎉 [DiffusionDrive](https://github.com/hustvl/DiffusionDrive) are accepted to CVPR 2025!
