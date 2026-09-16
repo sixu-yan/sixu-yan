@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Sixu.
 
-😄 I'm a second-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
+😄 I'm a third-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
 🔭 I'm working on embodied AI and computer vision. My previous work focused on robotic manipulation, including robot grasping, mobile manipulation, and bimanual coordination. 
 
