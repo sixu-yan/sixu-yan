@@ -1,4 +1,4 @@
-<img width="594" height="30" alt="image" src="https://github.com/user-attachments/assets/7b356d2a-2cf0-4395-9415-fa876693d646" />### Hi there 👋, this is Sixu.
+Hi there 👋, this is Sixu.
 
 😄 I'm a third-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
